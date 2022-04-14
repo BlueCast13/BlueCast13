@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm BlueCast</h1>
-
-- 🔭 I’m currently working on **Discord Music Bot**
+- 🔭 I’m currently working on **Discord Bot**
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -9,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bluecast9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bluecast9" height="30" width="40" /></a>
-<a href="https://discord.gg/BlueCastV2#0167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="BlueCast#1429" height="30" width="40" /></a>
+<a href="https://discord.gg/EPN7XCyP2X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EPN7XCyP2X" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
