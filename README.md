@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm BlueCast</h1>
+
 - 🔭 I’m currently working on **Discord Bot**
 
 - 🌱 I’m currently learning **JavaScript**
