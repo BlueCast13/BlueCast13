@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BlueCast</h1
+<h1 align="center">Hi 👋, I'm BlueCast</h1>
 
 - 🔭 I’m currently working on **Discord Bot**
 
