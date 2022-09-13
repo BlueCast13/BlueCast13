@@ -6,7 +6,7 @@
 ### I'm a Python and Javascript developer! I like programming weird stuff 👀
 
 - I'm currently working on Music Bot
-- I have been programming for 2 years!
+- I have been programming for 3 years!
 - I still don't know what I am doing.
 
 ### Technologies that I know!
