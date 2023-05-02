@@ -36,7 +36,7 @@
   </div>
 </details>
 
-<div align="center"><img src="https://cdn.discordapp.com/attachments/859335247547990026/882593069206229012/my_life.gif"></div>
+<div align="center"><img src="https://64.media.tumblr.com/38cd9e723b8bdcf65925a60e410e4f7a/5fcb5661aa614db4-2b/s640x960/bc1cbe76fb8d74f228580ebc03ff147917cc2102.gifv"></div>
 
 ### Thank you for viewing my profile!
 
